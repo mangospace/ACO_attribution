@@ -80,5 +80,5 @@ with ref_container:
     st.write('McCoy RG, Bunkers KS, Ramar P, Meier SK, Benetti LL, Nesse RE, Naessens JM. Patient attribution: why the method matters. Am J Manag Care. 2018 Dec;24(12):596-603.https://www.ajmc.com/view/patient-attribution-why-the-method-matters')
     st.write('Harker M, Olson A Patient Attribution The Basis for All Value-based Care. Society of Actuaries.(2018) https://www.soa.org/globalassets/assets/Files/resources/research-report/2018/patient-attribution.pdf')
     st.write('Shellabarger S, Mills C, Anderson L Prospective and retrospective assignment in MSSP and beyond.(2020) https://www.milliman.com/-/media/milliman/pdfs/articles/prospective-retrospective-assignment-mssp-beyond.ashx')
-    st.write('Gusland C,Larson A, Sweatman BA Ten questions providers should be asking about their value-based contracts and the COVID-19 pandemic. (2020) https://us.milliman.com/en/insight/ten-questions-providers-should-be-asking-about-their-valuebased-contracts-and-the-covid19-pandemic")
+    st.write('Gusland C,Larson A, Sweatman BA Ten questions providers should be asking about their value-based contracts and the COVID-19 pandemic. (2020) https://us.milliman.com/en/insight/ten-questions-providers-should-be-asking-about-their-valuebased-contracts-and-the-covid19-pandemic')
 	
