@@ -31,8 +31,9 @@ with main_container:
     st.subheader("Why think about attribution?")
     st.write("*Relevance*: The more lives you have attributed to your organization, the more relevant ACO/your organization is in the market.")
     st.write("*Regulatory*: MSSP ACOs need to stay above 5,000 beneficiaries to even be considered an ACO in MSSP program.")
-    st.write("*Risk pool*: Larger population base allows mitigating variability.")
-    
+    st.write("*Risk pool*: Larger population base mitigaties variability that is caused by outlying expenditure.")
+    st.write("*Financial*: Population Health organizations can earn infrastructure investments or performance based incentives based on attributed members.")
+   
 
     st.subheader("Goals of attribution")
     st.write("1.As many patients as possible are attributed to a clinician for provision of care and accountable for quality and cost ('Capture Rate').")
@@ -66,6 +67,7 @@ with main_container:
     st.write("While payors could be satisfied with 75-80% attribution, this might not be satisfactory to PCPs/risk taking entities for whom 20-25% 'misidentification' can result in significant financial risk.")
     st.write("Attribution is best in HMOs where patients have to choose a PCP at the time of enrollment. Even in HMOs, if PCP retires or member switches primary care provider without updating the plan, it can be difficult to resolve attribution from provider perspective.")
     st.write("These challenges can be exacerbated when payors delegate risk for PPO members (who dont have to elect a PCP). Among PPO members and Medicare ACOs with administrative attribution, if a member does not see a PCP but recieves care from several specialists, which specialist could the patient be attributed to and how it is communicated with the specialist in timely and transparent manner, remains challenging.") 
+    st.write("Change in patterns of care in 2020 and 2021 (due to Covid) can result in distortion in 2020/2021 claims/visit based attribution. Change in telehealth utilization due to Covid can also result in change in attribution unless payors and providers agree to accept telehealth evaluation and management (E&M) codes.")
     st.write("Patient mobility, change of insurance, infrequent healthcare utilization or intensive/exclusive utilization for mental health professionals can make attribution difficult in Medicaid beneficiaries. If you know of patient attribution models that do not fall in the above categories or have found different challenges, as could happen when payors interested in building/supporting new models of care e.g. Virtual/digital care delivery or Care Coordination, I would love to learn from you.")
 		
 with ref_container:
