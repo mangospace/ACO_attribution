@@ -36,8 +36,8 @@ with main_container:
    
 
     st.subheader("Goals of attribution")
-    st.write("1.As many patients as possible are attributed to a clinician for provision of care and accountable for quality and cost ('Capture Rate').")
-    st.write("2.Ensure buy-in/support from clinicians about the 'attribution methodology' of patients for whose care and that will be held accountable for the cost and quality of that care.")
+    st.write("1.As many patients as possible are attributed to a clinician for provision of care and who are accountable for quality and cost ('Capture Rate').")
+    st.write("2.Ensure buy-in/support from clinicians for 'attribution methodology' of patients whose care, quality and cost they will be accountable for.")
     st.write("There is some tension between these goals.")
 
     st.subheader("Methods of attribution")
@@ -46,7 +46,8 @@ with main_container:
 #    image1.show()
     st.image('https://raw.githubusercontent.com/mangospace/ACO_attribution/be7b14c30463dccae292fcaadbd0ad0fca441f57/Screenshot%202022-09-25%20165833.jpg', caption='Patient Attribution Flow Chart(Health Care Payment Learning and Action Network)')
     st.write("There are three basic methods for attribution:")
-    st.write("Patient choice, geographic-based and visit-based. Patient choice is the simplest method and relies on patients choosing and indicating which provider they would like to be responsible for their care. This method is most often used in HMOs e.g. Medicare Advantage or Commercial HMOs. However, this method is hard to enforce with low-cost members that skew toward not choosing a provider.")
+    st.write("Patient choice, geographic-based and visit-based. 
+st.write("	     Patient choice is the simplest method and relies on patients choosing and indicating which provider they would like to be responsible for their care. This method is most often used in HMOs e.g. Medicare Advantage or Commercial HMOs. However, this method is hard to enforce with low-cost members that skew toward not choosing a provider.")
     st.write("Geographic-based attribution is done through assignment of a network or use of zip code or county of residence. This method can ensure that most members/patients are attributed to a clinician but it lacks the sensitivity for how care is delivered among patients and providers.This is used in Maryland Medicare Performance Adjustment (MPA) or in devising global budgets for rural hospitals.")
     st.write("Visit-based attribution is an algorithm-based approach that uses claims experience and is used most often in Medicare ACOs e.g. MSSP. This method depends on quality of data e.g. if patients change plans,e.g. Medicaid plans or Commercial to Medicare, a health plan might not be able to correctly attribute patients. Many health entities use a tax identification number to identify providers but those identification numbers can change if the provider is acquired or merged into another entity. Or sometimes clinicians change employers and if patients are not 'handed off' clearly or patients have not seen a new clinician, it can be challenging to attribute patients. Challenges also arise as clinicians and practices can 'discharge patients from their practice' based on their conversation/knowledge of patients e.g. patient living in Long Term Care or patient expressing intent to see another PCP while the payor membership is based exclusively on patients choosing to update their choise in the payor's system. Duration of look back period for counting the visits can improve attribution while also creating some challenges.")
 
@@ -56,7 +57,7 @@ with main_container:
     st.write("With the Pathways to Success MSSP rule, CMS allows ACOs to choose attribution methodology: concurrent or prospective (potentially supplemented by voluntary patient attribution)")
     st.write("CMS uses following methodology for attributing patients to ACOs.")
     st.write("For Performance Year (PY) 2018 and subsequent performance years, beneficiaries have the opportunity to designate a primary clinician as responsible for coordinating their overall care. Beneficiaries may make this voluntary alignment through MyMedicare.gov at any time during the year.This voluntary alignment supersedes claims-based assignment. ")
-    st.write("For individuals who have not choosen a PCP, CMS uses following claims based methodology for attributing patients to ACOs as described in the June 2015 Final Rule.")
+    st.write("For individuals who have not choosen a PCP as described above, CMS uses claims based methodology for attributing patients to ACOs as described in the June 2015 Final Rule.")
     st.write("If a beneficiary receives at least one primary care service from a physician, within a specific ACO, the beneficiary may be assigned to that ACO based on a two-step process.")
     st.write("The first step assigns a beneficiary to an ACO if he or she receives a plurality of primary care services from primary care practitioners (i.e., primary care physicians, nurse practitioners, clinical nurse specialists, physician assistants, or ACO professionals providing services at a FQHC/RHC) within the ACO over last 2 years. CMS defines primary care physicians as physicians with one of the five following specialty designations: internal medicine, general practice, family practice, pediatric medicine, or geriatric medicine")
     st.write("Primary care services include evaluation and management services provided in office and other non-inpatient and non–emergency-room settings, as well as initial Medicare visits and annual wellness visits. If two ACOs/primary care clinicians tie for the largest share of a beneficiary’s primary care services, then the beneficiary is assigned to the TIN that provided primary care services most recently.")
