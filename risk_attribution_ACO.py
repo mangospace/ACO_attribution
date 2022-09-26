@@ -72,7 +72,7 @@ with ref_container:
 	# for example a logo or a image that looks like a website header
 	# different levels of text you can include in your app
     st.subheader("References")
-    st.write("Health Care Payment Learning and Action Network (HCP-LAN), Accelerating and Aligning Population-Based Payment Models: Patient Attribution, HCP-LAN, 2016, http://hcplan.org/workproducts/pa-whitepaper-final.pdf. Copyright © 2016 The MITRE Corporation.")
+    st.write("Health Care Payment Learning and Action Network (HCP-LAN), Accelerating and Aligning Population-Based Payment Models: Patient Attribution, HCP-LAN, 2016, http://hcplan.org/workproducts/pa-whitepaper-final.pdf")
     st.write("Medicare Shared Savings Program: Shared Savings and Losses and Assigment methodology Specifications (2018) https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/sharedsavingsprogram/Downloads/Shared-Savings-Losses-Assignment-Spec-V6.pdf")
     st.write("Kaufman BG, Bleser WK, Saunders R, Anderson D, Van Houtven CH, Muhlestein DB, Clough J, McClellan MB. Prospective or retrospective ACO attribution matters for seriously ill patients. Am J Manag Care. 2020 Dec;26(12):534-540. doi: 10.37765/ajmc.2020.88541.https://www.ajmc.com/view/prospective-or-retrospective-aco-attribution-matters-for-seriously-ill-patients")
     st.write('McCoy RG, Bunkers KS, Ramar P, Meier SK, Benetti LL, Nesse RE, Naessens JM. Patient attribution: why the method matters. Am J Manag Care. 2018 Dec;24(12):596-603.https://www.ajmc.com/view/patient-attribution-why-the-method-matters')
