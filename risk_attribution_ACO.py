@@ -79,7 +79,7 @@ with ref_container:
 	# different levels of text you can include in your app
     st.subheader("References")
     st.write('Harker M, Olson A Patient Attribution The Basis for All Value-based Care. Society of Actuaries.(2018) https://www.soa.org/globalassets/assets/Files/resources/research-report/2018/patient-attribution.pdf')
-    st.write("Health Care Payment Learning and Action Network (HCP-LAN), Accelerating and Aligning Population-Based Payment Models: Patient Attribution, HCP-LAN, 2016, http://hcplan.org/workproducts/pa-whitepaper-final.pdf")
+    st.write("Health Care Payment Learning and Action Network, Accelerating and Aligning Population-Based Payment Models: Patient Attribution, HCP-LAN( 2016) http://hcplan.org/workproducts/pa-whitepaper-final.pdf")
     st.write("Medicare Shared Savings Program: Shared Savings and Losses and Assigment methodology Specifications (2018) https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/sharedsavingsprogram/Downloads/Shared-Savings-Losses-Assignment-Spec-V6.pdf")
     st.write('Shellabarger S, Mills C, Anderson L Prospective and retrospective assignment in MSSP and beyond.(2020) https://www.milliman.com/-/media/milliman/pdfs/articles/prospective-retrospective-assignment-mssp-beyond.ashx')
     st.write('McCoy RG, Bunkers KS, Ramar P, Meier SK, Benetti LL, Nesse RE, Naessens JM. Patient attribution: why the method matters. Am J Manag Care. 2018 Dec;24(12):596-603.https://www.ajmc.com/view/patient-attribution-why-the-method-matters')
