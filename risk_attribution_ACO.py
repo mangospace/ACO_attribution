@@ -30,11 +30,10 @@ with main_container:
 
     st.subheader("Why think about attribution?")
     st.write("*Relevance*: The more lives you have attributed to your organization, the more relevant ACO/your organization is in the market.")
-    st.write("*Regulatory*: Per CMS regulations, MSSP ACOs need to have attribution of above 5,000 beneficiaries to remain in MSSP program.")
-    st.write("*Risk pool*: Larger population base mitigaties variability that is caused by outlying expenditure.")
-    st.write("*Financial*: Population Health organizations can earn infrastructure investments or performance based incentives based on attributed members.")
+    st.write("*Regulatory*: Per Centers for Medicare & Medicaid Services (CMS) regulations, Medicare Shared Saving Program (MSSP) Accountable Care Organizations (ACOs) need to have attribution above 5,000 beneficiaries to remain in MSSP program.")
+    st.write("*Risk pool*: Larger population base mitigaties variability that is caused by outlying expenditure in risk based arrangements.")
+    st.write("*Financial*: Population Health organizations can earn infrastructure investments or performance based incentives which are based on number of attributed members.")
    
-
     st.subheader("Goals of attribution")
     st.write("1.As many patients as possible are attributed to a clinician for provision of care and who are accountable for quality and cost ('Capture Rate').")
     st.write("2.Ensure buy-in/support from clinicians for 'attribution methodology' of patients whose care, quality and cost they will be accountable for.")
