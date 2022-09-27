@@ -27,9 +27,9 @@ with header_container:
 st.sidebar.header("Sections")
 st.sidebar.markdown("[Why think about Attribution?](#why-think-about-attribution)")
 st.sidebar.markdown("[Goals of attribution](#goals-of-attribution)")
-st.sidebar.markdown("[Methods of attribution](https://mangospace-aco-attribution-risk-attribution-aco-km9o2g.streamlitapp.com/~/+/#methods-of-attribution)")
-st.sidebar.markdown("[MSSP ACO Attribution](https://mangospace-aco-attribution-risk-attribution-aco-km9o2g.streamlitapp.com/~/+/#mssp-aco-attribution)")
-st.sidebar.markdown("[Challenges](https://mangospace-aco-attribution-risk-attribution-aco-km9o2g.streamlitapp.com/~/+/#challenges)")
+st.sidebar.markdown("[Methods of attribution](#methods-of-attribution)")
+st.sidebar.markdown("[MSSP ACO Attribution](#mssp-aco-attribution)")
+st.sidebar.markdown("[Challenges](#challenges)")
 
 
 with main_container:
