@@ -25,11 +25,11 @@ with header_container:
 	st.subheader("I welcome comments, feedback and opportunity to learn more or collaborate. Tweet @manas8u")
 
 st.sidebar.header("Sections")
-st.sidebar.write("[Why think about Attribution?](https://mangospace-aco-attribution-risk-attribution-aco-km9o2g.streamlitapp.com/~/+/#why-think-about-attribution)")
-st.sidebar.write("[Goals of attribution](https://mangospace-aco-attribution-risk-attribution-aco-km9o2g.streamlitapp.com/~/+/#goals-of-attribution)")
-st.sidebar.write("[Methods of attribution](https://mangospace-aco-attribution-risk-attribution-aco-km9o2g.streamlitapp.com/~/+/#methods-of-attribution)")
-st.sidebar.write("[MSSP ACO Attribution](https://mangospace-aco-attribution-risk-attribution-aco-km9o2g.streamlitapp.com/~/+/#mssp-aco-attribution)")
-st.sidebar.write("[Challenges](https://mangospace-aco-attribution-risk-attribution-aco-km9o2g.streamlitapp.com/~/+/#challenges)")
+st.sidebar.markdown("[Why think about Attribution?](https://mangospace-aco-attribution-risk-attribution-aco-km9o2g.streamlitapp.com/~/+/#why-think-about-attribution)")
+st.sidebar.markdown("[Goals of attribution](https://mangospace-aco-attribution-risk-attribution-aco-km9o2g.streamlitapp.com/~/+/#goals-of-attribution)")
+st.sidebar.markdown("[Methods of attribution](https://mangospace-aco-attribution-risk-attribution-aco-km9o2g.streamlitapp.com/~/+/#methods-of-attribution)")
+st.sidebar.markdown("[MSSP ACO Attribution](https://mangospace-aco-attribution-risk-attribution-aco-km9o2g.streamlitapp.com/~/+/#mssp-aco-attribution)")
+st.sidebar.markdown("[Challenges](https://mangospace-aco-attribution-risk-attribution-aco-km9o2g.streamlitapp.com/~/+/#challenges)")
 	
 with main_container:
     st.subheader("Definition")
