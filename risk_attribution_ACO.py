@@ -24,6 +24,13 @@ with header_container:
 	st.title("Attribution in risk based arrangements")
 	st.subheader("I welcome comments, feedback and opportunity to learn more or collaborate. Tweet @manas8u")
 
+st.sidebar.header("Sections")
+st.sidebar.write("[Why think about Attribution?](https://mangospace-aco-attribution-risk-attribution-aco-km9o2g.streamlitapp.com/~/+/#why-think-about-attribution)")
+st.sidebar.write("[Goals of attribution](https://mangospace-aco-attribution-risk-attribution-aco-km9o2g.streamlitapp.com/~/+/#goals-of-attribution)")
+st.sidebar.write("[Methods of attribution](https://mangospace-aco-attribution-risk-attribution-aco-km9o2g.streamlitapp.com/~/+/#methods-of-attribution)")
+st.sidebar.write("[MSSP ACO Attribution](https://mangospace-aco-attribution-risk-attribution-aco-km9o2g.streamlitapp.com/~/+/#mssp-aco-attribution)")
+st.sidebar.write("[Challenges](https://mangospace-aco-attribution-risk-attribution-aco-km9o2g.streamlitapp.com/~/+/#challenges)")
+	
 with main_container:
     st.subheader("Definition")
     st.write("Attribution is the process of assigning patients to the provider group that will be responsible for delivering their care and that will be held accountable for the cost and quality of that care (Society of Actuaries, 2018).")
