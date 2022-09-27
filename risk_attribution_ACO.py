@@ -30,7 +30,7 @@ with main_container:
 
     st.subheader("Why think about attribution?")
     st.write("*Relevance*: The more lives you have attributed to your organization, the more relevant ACO/your organization is in the market.")
-    st.write("*Regulatory*: Per CMS regulations, MSSP ACOs need to have attributino of above 5,000 beneficiaries to remain in MSSP program.")
+    st.write("*Regulatory*: Per CMS regulations, MSSP ACOs need to have attribution of above 5,000 beneficiaries to remain in MSSP program.")
     st.write("*Risk pool*: Larger population base mitigaties variability that is caused by outlying expenditure.")
     st.write("*Financial*: Population Health organizations can earn infrastructure investments or performance based incentives based on attributed members.")
    
