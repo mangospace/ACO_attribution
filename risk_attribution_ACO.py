@@ -10,7 +10,7 @@ import pandas as pd
 import numpy as np
 from PIL import Image
 import urllib.request
-st.set_page_config(page_title="MSSP ACO: Membership attribution", page_icon=":tada:")
+st.set_page_config(page_title="Member attribution in Risk Based Arrangements", page_icon=":tada:")
 
 header_container = st.container()
 #side_container= st.sidebar()
