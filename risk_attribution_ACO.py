@@ -23,6 +23,7 @@ with header_container:
 	# different levels of text you can include in your app
 	st.title("Attribution in risk based arrangements")
 	st.subheader("I welcome comments, feedback and opportunity to learn more or collaborate. Tweet @manas8u")
+	st.write("Disclaimer: I have written this for clarity and not originality. Many words and sentences are attributed to orginal authors.")
 
 st.sidebar.header("Sections")
 st.sidebar.markdown("[Why think about Attribution?](#why-think-about-attribution)")
