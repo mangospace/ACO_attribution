@@ -24,7 +24,7 @@ with header_container:
 	st.title("Attribution in risk based arrangements")
 	st.subheader("I welcome comments, feedback and opportunity to learn more or collaborate. Tweet @manas8u")
 
-st.sidebar.header("Sections2342")
+st.sidebar.header("Sections")
 st.sidebar.markdown("[Why think about Attribution?](#why-think-about-attribution)")
 st.sidebar.markdown("[Goals of attribution](#goals-of-attribution)")
 st.sidebar.markdown("[Methods of attribution](#methods-of-attribution)")
