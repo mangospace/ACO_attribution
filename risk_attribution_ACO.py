@@ -29,6 +29,7 @@ st.sidebar.markdown("[Why think about Attribution?](#why-think-about-attribution
 st.sidebar.markdown("[Goals of attribution](#goals-of-attribution)")
 st.sidebar.markdown("[Methods of attribution](#methods-of-attribution)")
 st.sidebar.markdown("[MSSP ACO Attribution](#mssp-aco-attribution)")
+st.sidebar.markdown("[Attribution in Medicaid](#attribution-in-medicaid)")
 st.sidebar.markdown("[Challenges](#challenges)")
 
 
